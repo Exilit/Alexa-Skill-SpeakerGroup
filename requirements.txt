@@ -207,7 +207,7 @@ pyct==0.4.5
 pyflakes==2.0.0
 pyflux==0.4.17
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==2.1.1
 pymc==2.3.7
 PyMeta3==0.5.1
