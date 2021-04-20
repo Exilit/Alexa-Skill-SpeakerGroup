@@ -196,7 +196,7 @@ protobuf==3.6.1
 psutil==5.4.7
 ptpython==0.41
 PuLP==1.6.8
-py==1.5.4
+py==1.10.0
 pyarrow==0.10.0
 PyAudio==0.2.11
 pybars3==0.9.3
