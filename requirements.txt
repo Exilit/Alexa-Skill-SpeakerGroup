@@ -304,7 +304,7 @@ twitter==1.17.1
 typed-ast==1.1.0
 typing==3.6.4
 uncertainties==3.0.2
-urllib3==1.23
+urllib3==1.26.5
 vega==1.4.0
 vega-datasets==0.5.0
 ViTables==3.0.0
