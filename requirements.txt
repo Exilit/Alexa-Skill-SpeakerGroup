@@ -233,7 +233,7 @@ pythreejs==1.1.0
 pytz==2018.5
 pyviz-comms==0.1.1
 PyWavelets==0.5.2
-pywin32==223.1
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinpty==0.5.4
 pywinusb==0.4.2
