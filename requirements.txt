@@ -113,7 +113,7 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 jupyter-sphinx==0.1.4
-jupyterlab==0.34.7
+jupyterlab==1.2.21
 jupyterlab-launcher==0.13.1
 Keras==2.2.2
 Keras-Applications==1.0.4
