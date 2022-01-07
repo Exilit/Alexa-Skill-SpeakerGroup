@@ -38,7 +38,7 @@ clrmagic==0.0.1a2
 colorama==0.3.9
 colorcet==0.9.1
 comtypes==1.1.7
-cvxopt==1.2.0
+cvxopt==1.2.7
 cvxpy==1.0.8
 cx-Freeze==5.1.1
 cycler==0.10.0
