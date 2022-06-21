@@ -162,7 +162,7 @@ numba==0.39.0
 numcodecs==0.5.5
 numdifftools==0.9.20
 numexpr==2.6.8
-numpy==1.14.5+mkl
+numpy==1.22.0rc1
 numpydoc==0.8.0
 oct2py==4.0.6
 octave-kernel==0.28.4
