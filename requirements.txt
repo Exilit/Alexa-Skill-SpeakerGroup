@@ -150,7 +150,7 @@ multipledispatch==0.6.0
 multiprocess==0.70.6.1
 munch==2.3.2
 mypy==0.620
-mysql-connector-python==8.0.11
+mysql-connector-python==8.0.14
 nbconvert==5.3.1
 nbconvert-reportlab==0.2
 nbformat==4.4.0
