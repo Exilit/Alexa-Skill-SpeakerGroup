@@ -26,7 +26,7 @@ Bottleneck==1.2.1
 bqplot==0.11.1
 brewer2mpl==1.4.1
 Brotli==1.0.4
-certifi==2018.8.13
+certifi==2022.12.7
 cffi==1.11.5
 cftime==1.0.1
 chardet==3.0.4
